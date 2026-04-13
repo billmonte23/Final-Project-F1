@@ -1,13 +1,15 @@
-#Formula 1 Data Cleaning & Feature Engineering
-#This project focuses on data preprocessing and feature engineering using Formula 1 datasets.
-#The goal is to merge multiple datasets, clean the data, and create useful features for analysis or machine learning.
-#Datasets Used
+# Main Title
+## Section Title
+### Subsection
+This project focuses on data preprocessing and feature engineering using Formula 1 datasets.The objective of this study is to predict Formula 1 race performance (points scored) and identify the most influential factors affecting race outcomes using historical race dat
+
 #The following datasets are used in this project:
 #drivers.csv
 #constructors.csv
 #races.csv
 #results.csv
 #qualifying.csv
+
 
 #Import Libraries
 import pandas as pd
