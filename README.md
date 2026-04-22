@@ -1,3 +1,9 @@
+##  Files Included
+
+- Dinesh_Dissertation_F1.ipynb → Main implementation notebook  
+- README.md → Project description  
+
+
 #  Formula 1 Race Outcome Prediction using Machine Learning
 
 ##  Overview
@@ -49,11 +55,11 @@ The dataset was cleaned and preprocessed before modelling.
 - Complex models do not always outperform simpler models  
 - Lack of race dynamics limits prediction accuracy  
 
+##  Visual Results
+
+The notebook includes:
+- Confusion Matrix  
+- ROC Curve  
+- Feature Importance Plot  
 ---
 
-## How to Run
-
-1. Open the notebook (`.ipynb`) in Google Colab or Jupyter Notebook  
-2. Install required libraries:
-   ```bash
-   pip install pandas numpy scikit-learn xgboost matplotlib seaborn
